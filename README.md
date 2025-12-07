@@ -21,7 +21,7 @@ Before you begin, ensure you have the following:
 
 1.  **Clone the repository** (or download the ZIP):
     ```bash
-    git clone https://github.com/Tredge/wishlistbot.git
+    git clone https://github.com/Tredge/WishListBot.git
     cd "WishList Bot"
     ```
 
