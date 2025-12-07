@@ -1,6 +1,6 @@
 # Steam Wishlist Bot
 
-A Discord bot that tracks Steam game prices and notifies you of deals using the GG.deals API.
+A Discord bot that tracks Steam game prices and notifies you of deals using the GG.deals & Steam APIs.
 
 ## Features
 
@@ -37,7 +37,7 @@ Before you begin, ensure you have the following:
     *   `WISHLIST_CHANNEL_ID`: The ID of the channel where you want deal notifications to be posted.
     *   `CHECK_INTERVAL_MINUTES`: How often (in minutes) the bot checks for new prices.
     *   `STEAM_REGION`: Your preferred region code (e.g., `gb`, `us`, `eu`).
-    *   `GG_DEALS_KEY`: Your API key from GG.deals.
+    *   `GG_DEALS_KEY`: Your API key from GG.deals (https://gg.deals/api/).
 
 ## Running the Bot
 
